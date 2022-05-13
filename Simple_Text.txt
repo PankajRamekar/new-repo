@@ -1,5 +1,18 @@
 public class{
   public static void main(String[]args){
-    gfcgghggghfgfg
+       checkPrime(5);
+
   }
+	public static void checkPrime(int num){
+		int i=2;
+		while(i<=num){
+			if(num%i==0){
+			    break;
+			}i++;
+			if(num==i){
+				System.out.println("number is prime");
+			}	
+		}
+	}
+
 }
