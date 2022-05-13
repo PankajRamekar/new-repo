@@ -1,0 +1,130 @@
+.container-fluid {
+    padding-left: 20px;
+    float: left;
+    border: 0px solid blueviolet;
+}
+
+.form-group {
+    padding-top: 100px;
+    width: 1000px;
+}
+
+#link {
+    float: right;
+}
+
+#title {
+    text-align: center;
+    padding-left: 10%;
+    padding-top: 2.5%;
+    font-size: 50px;
+    color: darkmagenta;
+}
+
+h6 {
+    border: 1px solid chocolate;
+    text-align: center;
+}
+
+#button {
+    margin-top: 0%;
+    top: 0%;
+    float: right;
+}
+
+.col {
+    padding-left: .25%;
+    padding-top: .25%;
+    float: left;
+    width: 25%;
+    border: 0px solid coral;
+}
+
+h4 {
+    padding-top: 10%;
+    padding-left: 10px;
+}
+
+span {
+    color: darkorange;
+}
+
+.row {
+    padding-left: 0px;
+    border: 0px solid blueviolet;
+}
+
+nav {
+    height: 50px;
+    top: 0;
+    z-index: 1;
+    padding-left: 50px;
+    position: fixed;
+    width: 100%;
+    background-color: blueviolet;
+    margin-left: -20px;
+}
+
+#a {
+    padding-top: 10px;
+    height: 10px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    padding-left: 80px;
+    color: floralwhite;
+    width: 100%;
+    font-size: 25px;
+}
+
+h3 {
+    z-index: -1;
+    font-size: 75px;
+}
+
+#b {
+    padding-left: -10px;
+    height: 800px;
+}
+
+#c {
+    height: 550px;
+}
+
+#info {
+    text-align: center;
+    padding-left: 10%;
+    padding-top: 2.5%;
+    font-size: 50px;
+    color: darkmagenta;
+    height: 90px;
+    width: 100%;
+}
+
+p {
+    padding-left: 20px;
+}
+
+#mrow {
+    height: 50%;
+    width: 100%;
+}
+
+#d {
+    height: 500px;
+}
+
+#e {
+    padding-top: 2%;
+    height: 450px;
+}
+
+#f {
+    height: 700px;
+}
+
+.row {
+    height: 100px;
+}
